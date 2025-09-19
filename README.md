@@ -73,12 +73,13 @@ Lista de productos:
 ID: 1 | Nombre: Leche entera vaquita | Descripción: 1lt de leche entera vaquita en sachet. vence el 30/9/2025 | Cantidad: 100 | Precio: 1250.0 | Categoría: Lacteos
 
 📷 Vista previa
-
+Un vistazo general de las funciones uno y dos del menú
+(Captura de pantalla 2025-09-19 190607.png)
 
 🔗 Repositorio de código
-Código completo: GitHub
+Código completo: https://github.com/mariawkpazcerpa-lang/inventario_productos
 
 📬 Contacto
-Email: tuemail@ejemplo.com
+Email: mariawkpazcerpa@gmail.com
 
 LinkedIn: María de la Paz Cerpa
