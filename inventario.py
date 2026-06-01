@@ -467,4 +467,5 @@ def menu():
                     case 7:
                         break
 
-menu()
+if __name__ == "__main__":
+    menu()
