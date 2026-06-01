@@ -3,6 +3,10 @@ import inventario  # tu archivo original
 
 app = Flask(__name__)
 
+@app.route("/")
+def home():
+    return "Servidor Flask funcionando. Bienvenida al inventario."
+
 @app.route("/productos")
 def productos():
     # llamar directamente a la función de tu CRUD
