@@ -5,7 +5,22 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Inventario en línea funcionando"
+    return """
+    <h1 style='color:blue;'>*~~* INVENTARIO *~~*</h1>
+    <h2>Menú Principal</h2>
+    <ul>
+        <li><a href='/registrar'>1 ~ Registrar un nuevo producto</a></li>
+        <li><a href='/productos'>2 ~ Visualizar lista del inventario</a></li>
+        <li><a href='/buscar/1'>3 ~ Buscar un producto por ID</a></li>
+        <li><a href='/buscar/nombre/ProductoX'>3b ~ Buscar un producto por nombre</a></li>
+        <li><a href='/buscar/categoria/Bebidas'>3c ~ Buscar productos por categoría</a></li>
+        <li><a href='/actualizar/1'>4 ~ Actualizar un producto</a></li>
+        <li><a href='/eliminar/1'>5 ~ Eliminar un producto</a></li>
+        <li><a href='/reporte/20'>6 ~ Reporte de productos con bajo stock</a></li>
+        <li><a href='/salir'>7 ~ Salir (cerrar sesión)</a></li>
+    </ul>
+    <p style='color:gray;'>Seleccioná una opción del menú para interactuar con el inventario.</p>
+    """
 
 # --- LISTAR PRODUCTOS ---
 @app.route("/productos")
