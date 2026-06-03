@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Open in GitHub Codespaces](https://img.shields.io/badge/Open_in-Codespaces-blueviolet?style=flat-square&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=YOUR_REPO_ID)
+[![Open in GitHub Codespaces][![Open in GitHub Codespaces](https://img.shields.io/badge/Open_in-Codespaces-blueviolet?style=flat-square&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=mariawkpazcerpa-lang/inventario_productos)
 
 Simulación de un sistema de inventario estilo supermercado optimizado para la línea de comandos (CLI). El proyecto implementa un **CRUD completo** con persistencia de datos relacional y una interfaz de usuario interactiva y estilizada en terminal.
 
