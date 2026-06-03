@@ -1,3 +1,2 @@
 colorama
 sqlite3 
-flask
