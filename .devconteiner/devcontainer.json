@@ -1,0 +1,17 @@
+
+{
+  "name": "Python & SQLite CRUD",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {}
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "alexcvzz.vscode-sqlite"
+      ]
+    }
+  }
+}
