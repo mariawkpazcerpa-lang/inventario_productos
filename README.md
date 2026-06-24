@@ -71,10 +71,7 @@ Ingresa el precio del producto (Use punto para decimales): 1250.00
 Ingresa la cantidad de unidades: 100
 
 [✓] Producto 'Leche Entera Vaquita' registrado correctamente.
-📷 Vista Previa de la Interfaz
-💡 Tip de diseño para María: En lugar de la captura estática, si usas la herramienta ScreenToGif o Terminalizer y guardas un .gif interactivo de 10 segundos, arrástralo y suéltalo justo aquí abajo. Eso hace que el repositorio "cobre vida" en el portafolio.
 
-![Vista previa del menú y listado](Captura de pantalla 2025-09-19 190607.png)
 
 📬 Contacto & Redes
 Desarrolladora: María de la Paz Cerpa
